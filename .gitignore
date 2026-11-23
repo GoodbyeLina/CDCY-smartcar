@@ -1,0 +1,29 @@
+# ---- Keil MDK 构建产物 ----
+_build_output/
+DebugConfig/
+*.o
+*.d
+*.crf
+*.axf
+*.hex
+*.bin
+*.map
+*.lst
+*.lnp
+*.dep
+*.sct
+*.htm
+*.build_log.htm
+*.uvguix.*
+*.uvopt.bak
+*_uvoptx.bak
+*.bak
+RTE/
+
+# ---- 其它 ----
+JLinkLog.txt
+JLinkSettings.ini
+*.log
+Thumbs.db
+desktop.ini
+.DS_Store
